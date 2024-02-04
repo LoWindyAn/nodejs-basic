@@ -1,0 +1,7 @@
+2024-02-04	16:25:49	b195be3b-4a0e-409b-839d-ed143b006c8c	/new-page.html	GET
+2024-02-04	16:25:50	2377e930-ee2c-4a81-b2db-d37b2d2ebb29	/img/imgtest.jpg	GET
+2024-02-04	16:25:50	050f07ea-67fb-4955-916b-cbf8d12df587	/favicon.ico	GET
+2024-02-04	16:27:34	b5c2782d-3a82-4d40-bc88-e9113a8aaed1	/new-page.html	GET
+2024-02-04	16:28:10	3e20b294-b1a0-4ec5-9157-dd0694459bd0	/new-page.html	GET
+2024-02-04	16:28:10	54412345-9d2f-4cb5-9b14-f2331663eb8c	/img/imgtest.jpg	GET
+2024-02-04	16:28:18	de3e65ad-3cdf-4aef-a8ff-20de64f16c55	/	GET
