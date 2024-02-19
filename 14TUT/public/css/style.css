@@ -1,0 +1,17 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    background-color: black;
+}
+
+p {
+    color: white;
+    font-size: 50px;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
